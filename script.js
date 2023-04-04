@@ -1,4 +1,5 @@
 function message() {
+
     let name = document.getElementById("name").value;
     let age = Number(document.getElementById("age").value);
 
