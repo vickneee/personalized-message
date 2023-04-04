@@ -29,4 +29,9 @@
     font-size: 16px;
 }
 
+.submit:hover,
+.submit:active {
+    background-color: #ffb905;
+}
+
 
