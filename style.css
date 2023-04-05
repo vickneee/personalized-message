@@ -20,7 +20,8 @@
 }
 
 input {
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .name,
@@ -38,6 +39,11 @@ input {
 .submit:hover,
 .submit:active {
     background-color: #ffb905;
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
 }
 
 

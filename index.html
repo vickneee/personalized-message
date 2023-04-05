@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-
     <title>Personalized message</title>
 </head>
 
@@ -13,13 +12,13 @@
         <h1>Personalized Message</h1>
         <form class="myForm">
             <label class="name" for="name">Name: </label><br>
-            <input type="text" id="name" name="name"><br>
+            <input type="text" id="name" name="name" required><br>
             <label class="age" for="age">Age: </label><br>
-            <input type="text" id="age" name="age"><br><br>
-            <input class="submit" type="submit" value="Submit">
+            <input type="text" id="age" name="age" required><br><br>
+            <input class="submit" type="submit" value="Submit"><br><br>
+            <p id="message"></p>
         </form>
     </div>
-    <p id="message"></p>
 </section>
 <script src="script.js"></script>
 </body>
