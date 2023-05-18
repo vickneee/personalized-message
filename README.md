@@ -1,4 +1,4 @@
 # personalized-message
-School homework. HTML+CSS+JS. Not Responsive. 
+School homework.
 
 🔗 https://vickneee.github.io/personalized-message/
