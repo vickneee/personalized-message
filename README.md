@@ -2,4 +2,4 @@
 
 Personalized message using HTML, CSS and JavaScript.
 
-<img width="1343" alt="Screenshot 2023-05-27 at 14 03 32" src="https://github.com/vickneee/personalized-message/assets/93821265/5c6e762d-492d-4615-b8bb-c8c28bf5cf2b">
+<img width="1345" alt="Screenshot 2023-05-27 at 14 05 03" src="https://github.com/vickneee/personalized-message/assets/93821265/592085f8-710b-4825-8f90-6c5f3e4bd3e5">
